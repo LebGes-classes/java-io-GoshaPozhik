@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "studentId": 1,
+    "subjectId": 1,
+    "grade": 5,
+    "date": "\"01.09.2023\""
+  },
+  {
+    "id": 2,
+    "studentId": 1,
+    "subjectId": 2,
+    "grade": 4,
+    "date": "\"01.09.2023\""
+  },
+  {
+    "id": 3,
+    "studentId": 4,
+    "subjectId": 2,
+    "grade": 5,
+    "date": "31.05.2025"
+  }
+]

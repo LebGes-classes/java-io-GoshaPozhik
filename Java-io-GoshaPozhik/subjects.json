@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Дискра",
+    "teacherId": 1
+  },
+  {
+    "id": 2,
+    "name": "Алгем",
+    "teacherId": 1
+  },
+  {
+    "id": 3,
+    "name": "Матан",
+    "teacherId": 2
+  }
+]

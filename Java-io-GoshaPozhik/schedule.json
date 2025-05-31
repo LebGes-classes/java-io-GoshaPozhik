@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "groupId": 1,
+    "subjectId": 1,
+    "teacherId": 1,
+    "dayOfWeek": "Понедельник",
+    "timeSlot": "08:30-10:00"
+  },
+  {
+    "id": 2,
+    "groupId": 1,
+    "subjectId": 2,
+    "teacherId": 1,
+    "dayOfWeek": "Вторник",
+    "timeSlot": "10:10-11:40"
+  }
+]
